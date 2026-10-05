@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?><svg viewBox="215 151 124 83"
+    version="1.1" xmlns="http://www.w3.org/2000/svg" >
+<g fill="none" stroke-linecap="square" font-style="normal" >
+<g font-family="Sans Serif" font-size="12px"><text x="221.4415" y="205.1422" fill="#000000" >H</text></g>
+<g font-family="Sans Serif" font-size="12px"><text x="271.7941" y="172.3721" fill="#000000" >H</text></g>
+<g font-family="Sans Serif" font-size="12px"><text x="325.3576" y="217.1541" fill="#000000" >H</text></g>
+<g font-family="Sans Serif" font-size="12px"><text x="284.1145" y="193.1521" fill="#000000" >C</text></g>
+<g font-family="Sans Serif" font-size="12px"><text x="295.7941" y="172.3721" fill="#000000" >H</text></g>
+<g font-family="Sans Serif" font-size="12px"><text x="275.0084" y="225.9302" fill="#000000" >H</text></g>
+<g font-family="Sans Serif" font-size="12px"><text x="263.3287" y="205.1502" fill="#000000" >C</text></g>
+<g font-family="Sans Serif" font-size="12px"><text x="304.8979" y="205.1541" fill="#000000" >C</text></g>
+<g font-family="Sans Serif" font-size="12px"><text x="292.5776" y="225.9341" fill="#000000" >H</text></g>
+<g font-family="Sans Serif" font-size="12px"><text x="242.2249" y="169.1521" fill="#000000" >H</text></g>
+<g font-family="Sans Serif" font-size="12px"><text x="242.2484" y="193.1482" fill="#000000" >N</text></g>
+<g font-family="Sans Serif" font-size="12px"><text x="251.0084" y="225.9302" fill="#000000" >H</text></g>
+<g font-family="Sans Serif" font-size="12px"><text x="316.5776" y="184.3741" fill="#000000" >H</text></g>
+<line x1="272.4248" y1="209.1502" x2="276.3401" y2="215.9302" stroke-width="1" stroke="#000000" />
+<line x1="240.2484" y1="192.3903" x2="232.4571" y2="196.8865" stroke-width="1" stroke="#000000" />
+<line x1="312.2615" y1="195.1541" x2="316.1768" y2="188.3741" stroke-width="1" stroke="#000000" />
+<line x1="262.6076" y1="209.1502" x2="258.6923" y2="215.9302" stroke-width="1" stroke="#000000" />
+<line x1="315.2729" y1="204.2273" x2="323.3576" y2="208.896" stroke-width="1" stroke="#000000" />
+<line x1="273.7037" y1="197.0786" x2="282.1145" y2="192.2237" stroke-width="1" stroke="#000000" />
+<line x1="261.3287" y1="197.077" x2="253.2171" y2="192.3927" stroke-width="1" stroke="#000000" />
+<line x1="294.4895" y1="192.2253" x2="302.8979" y2="197.081" stroke-width="1" stroke="#000000" />
+<line x1="291.4781" y1="183.1521" x2="295.3934" y2="176.3721" stroke-width="1" stroke="#000000" />
+<line x1="246.7327" y1="183.1482" x2="246.7327" y2="173.1521" stroke-width="1" stroke="#000000" />
+<line x1="285.1258" y1="183.1521" x2="281.2105" y2="176.3721" stroke-width="1" stroke="#000000" />
+<line x1="304.1768" y1="209.1541" x2="300.2615" y2="215.9341" stroke-width="1" stroke="#000000" />
+</g>
+</svg>
