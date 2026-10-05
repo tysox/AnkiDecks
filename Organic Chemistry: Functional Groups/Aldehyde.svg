@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?><svg viewBox="220 156 62 63"
+    version="1.1" xmlns="http://www.w3.org/2000/svg" >
+<g fill="none" stroke-linecap="square" font-style="normal" >
+<g font-family="Sans Serif" font-size="12px"><text x="246.6326" y="174.6441" fill="#000000" >O</text></g>
+<g font-family="Sans Serif" font-size="12px"><text x="226.4073" y="210.6441" fill="#000000" >R</text></g>
+<g font-family="Sans Serif" font-size="12px"><text x="267.6235" y="210.6441" fill="#000000" >H</text></g>
+<g font-family="Sans Serif" font-size="12px"><text x="247.1639" y="198.6441" fill="#000000" >C</text></g>
+<line x1="257.5389" y1="197.7173" x2="265.6235" y2="202.386" stroke-width="1" stroke="#000000" />
+<line x1="245.1639" y1="197.7173" x2="236.7354" y2="202.5845" stroke-width="1" stroke="#000000" />
+<line x1="254.3514" y1="188.6441" x2="254.3514" y2="178.6441" stroke-width="1" stroke="#000000" />
+<line x1="248.3514" y1="188.6441" x2="248.3514" y2="178.6441" stroke-width="1" stroke="#000000" />
+</g>
+</svg>
