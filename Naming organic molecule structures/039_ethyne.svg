@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?><svg viewBox="239 224 93 27"
+    version="1.1" xmlns="http://www.w3.org/2000/svg" >
+<g fill="none" stroke-linecap="square" font-style="normal" >
+<g font-family="Sans Serif" font-size="12px"><text x="245.8165" y="242.3378" fill="#000000" >H</text></g>
+<g font-family="Sans Serif" font-size="12px"><text x="270.1368" y="242.3378" fill="#000000" >C</text></g>
+<g font-family="Sans Serif" font-size="12px"><text x="294.1368" y="242.3378" fill="#000000" >C</text></g>
+<g font-family="Sans Serif" font-size="12px"><text x="317.8165" y="242.3378" fill="#000000" >H</text></g>
+<line x1="304.5118" y1="237.8378" x2="315.8165" y2="237.8378" stroke-width="1" stroke="#000000" />
+<line x1="268.1368" y1="237.8378" x2="256.8321" y2="237.8378" stroke-width="1" stroke="#000000" />
+<line x1="280.5118" y1="237.8378" x2="292.1368" y2="237.8378" stroke-width="1" stroke="#000000" />
+<line x1="281.9649" y1="233.3378" x2="290.6837" y2="233.3378" stroke-width="1" stroke="#000000" />
+<line x1="281.9649" y1="242.3378" x2="290.6837" y2="242.3378" stroke-width="1" stroke="#000000" />
+</g>
+</svg>
